@@ -1,0 +1,13 @@
+body{
+  background-color: #9a1f40;
+}
+.titulo{
+  font-style: italic;
+}
+p{
+  font-style: italic;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
